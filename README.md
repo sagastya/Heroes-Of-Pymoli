@@ -19,6 +19,11 @@ There’s a potential for increased revenue if you look at the following trends 
   2. Players between the age group 20-24 account for a whopping 45% of the total sales. The sales amount from this age group is $1104.16
   3. There is a correlation among 3 of the top five popular and profitable sales items. The topmost popular and profitable item is ‘Oathbreaker, Last Hope of the Breaking Storm’ which sells at $4.23 and accounts for top total purchase value of $50.76. Other top popular and profitable items are ‘Fiery Glass Crusader’ and ‘Nirvana’.
   
+### Tools used in this Project:
+  1. Python
+    Libraries:
+      * Pandas
+  2. Jupyter Notebook
   
 
   
